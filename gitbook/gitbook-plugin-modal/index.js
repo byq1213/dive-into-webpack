@@ -1,3 +1,4 @@
+return;
 var className = 'gitbook-plugin-modal';
 
 require(['gitbook'], function (gitbook) {
